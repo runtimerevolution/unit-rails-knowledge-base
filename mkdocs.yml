@@ -1,4 +1,4 @@
-site_name: Runtime Revolution Knowledge Base
+site_name: rails unit - Runtime Revolution Knowledge Base
 
 theme:
   name: material
@@ -7,8 +7,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-repo_url: https://github.com/runtimerevolution/knowledge-base.git
-repo_name: runtimerevolution/knowledge-base
+repo_url: https://github.com/runtimerevolution/unit-rails-knowledge-base.git
+repo_name: runtimerevolution/unit-rails-knowledge-base
 
 markdown_extensions:
   - pymdownx.superfences:
